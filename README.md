@@ -1,2 +1,2 @@
-# simple-game
+# Javascript
 Example
